@@ -1,9 +1,16 @@
 {
   "id": "conv-1776743134441-u0xxqe3o3",
   "providerId": "codex",
-  "title": "你现在用的是什么模型？",
-  "titleGenerationStatus": "pending",
+  "title": "优化我这个笔记的格式，可读性好一点，你可以定一个格式规范",
+  "titleGenerationStatus": "failed",
   "createdAt": 1776743134441,
-  "updatedAt": 1776743134445,
-  "sessionId": null
+  "updatedAt": 1776752031647,
+  "lastResponseAt": 1776752031647,
+  "sessionId": "019daeac-5959-7323-88cc-3b4304b2cdb8",
+  "providerState": {
+    "threadId": "019daeac-5959-7323-88cc-3b4304b2cdb8",
+    "sessionFilePath": "/Users/mojunyu/.codex/sessions/2026/04/21/rollout-2026-04-21T14-13-43-019daeac-5959-7323-88cc-3b4304b2cdb8.jsonl",
+    "transcriptRootPath": "/Users/mojunyu/.codex/sessions"
+  },
+  "currentNote": "Kingnet/工作需求/2026.03.19_需求_越南事件上报.md"
 }
