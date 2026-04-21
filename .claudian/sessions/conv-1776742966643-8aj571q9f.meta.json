@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776742966643-8aj571q9f",
+  "providerId": "claude",
+  "title": "你现在用的是什么模型",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1776742966655,
+  "updatedAt": 1776743042694,
+  "lastResponseAt": 1776742986977,
+  "sessionId": "56b1eba4-2374-488b-b58b-aca3bd3a7626",
+  "providerState": {
+    "providerSessionId": "56b1eba4-2374-488b-b58b-aca3bd3a7626"
+  },
+  "currentNote": "SDK 文档/运营文档/应用管理.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 17410,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 17410,
+    "percentage": 9,
+    "contextWindowIsAuthoritative": false
+  }
+}

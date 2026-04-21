@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776743213081-vkw3z0ona",
+  "providerId": "claude",
+  "title": "你现在用的是什么模型？",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1776743213081,
+  "updatedAt": 1776743405031,
+  "lastResponseAt": 1776743270086,
+  "sessionId": "539b5f6f-0830-4327-a938-bfec20e141a1",
+  "providerState": {
+    "providerSessionId": "539b5f6f-0830-4327-a938-bfec20e141a1"
+  },
+  "currentNote": "SDK 文档/运营文档/应用管理.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

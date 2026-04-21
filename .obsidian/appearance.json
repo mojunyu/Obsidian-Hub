@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "theme": "system",
+  "cssTheme": "Typora-Vue",
+  "enabledCssSnippets": [
+    "beautiful-tables"
+  ],
+  "translucency": false
+}

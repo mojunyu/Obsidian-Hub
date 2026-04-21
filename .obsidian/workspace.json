@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "df6a0143e01539f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0a8aacd0f31ef1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "841924177499007b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SDK 文档/运营文档/应用管理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "应用管理"
+            }
+          },
+          {
+            "id": "7fa77317f19fbdc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mojunyu/Obsidian/插件/清理无用图片.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "清理无用图片"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "37705caa212b3243",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a9fc0bee6988566",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47ce9025efc47074",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "5f5c8b98b90ed2c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2f160abc7fdb2678",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323.5
+  },
+  "right": {
+    "id": "39ff4243b9f3545a",
+    "type": "split",
+    "children": [
+      {
+        "id": "199ac4567b071d23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69be133642aaebe8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SDK 文档/运营文档/项目管理相关/创建项目.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "创建项目 的大纲"
+            }
+          },
+          {
+            "id": "ccce977001447e43",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SDK 文档/运营文档/应用管理.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "应用管理 的反向链接列表"
+            }
+          },
+          {
+            "id": "ab01db7182e85de7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "0c6ceebd87dcca08",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "cb4699867a75ee54",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "a1af2ecc60e72a92",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SDK 文档/运营文档/应用管理.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "应用管理 的出链列表"
+            }
+          },
+          {
+            "id": "abc378f88e97ea78",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 648.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false,
+      "claudian:Open Claudian": false
+    }
+  },
+  "active": "5f5c8b98b90ed2c6",
+  "lastOpenFiles": [
+    "Kingnet/SDK 文档/运营文档/项目-功能相关/申请域名.md",
+    "Kingnet/SDK 文档/运营文档/应用-功能相关/应用信息.md",
+    "Kingnet/SDK 文档/运营文档/应用-功能相关/创建应用.md",
+    "Kingnet/工作需求/2025.11.25_需求_IOS 删除账号.md",
+    "mojunyu/Kingnet/2026.03.18_需求_消耗监控.md",
+    "Kingnet/工作需求/attachments/AF分析.xlsx",
+    "Kingnet/工作需求/attachments/2026.04.12_分析_SDK 有 AF 没有.xlsx",
+    "Kingnet/工作需求/attachments/实名上报参数.txt",
+    "Kingnet/工作需求/attachments/上报越南公司API_CN版.docx",
+    "Kingnet/工作需求/attachments/2025.11.25_需求_IOS 删除账号.mp4",
+    "Kingnet/工作需求/attachments",
+    "Kingnet/工作需求/2026.04.12_分析_SDK 有 AF 没有.md",
+    "Kingnet/工作需求/2026.04.08_上线_巨兽四个地区.md",
+    "Kingnet/工作需求/2026.03.26_需求_推特消耗.md",
+    "Kingnet/工作需求/2026.03.20_需求_SKAN_IOS.md",
+    "Kingnet/工作需求/2026.03.19_需求_越南事件上报.md",
+    "Kingnet/工作需求/2026.03.18_需求_消耗监控.md",
+    "Kingnet/工作需求/2026.03.17_上线_天使俄罗斯.md",
+    "Kingnet/工作需求/2026.03.11_通知_Adjust更新.md",
+    "Kingnet/工作需求/2026.03.01_需求_微信小游戏 SDK.md",
+    "Kingnet/工作需求/2025.12.08_重构_Redis 迁移.md",
+    "Kingnet/工作需求",
+    "mojunyu/Kingnet/2026.03.19_需求_越南事件上报.md",
+    "mojunyu/Kingnet/2026.03.20_需求_SKAN_IOS.md",
+    "mojunyu/Kingnet/2026.03.26_需求_推特消耗.md",
+    "mojunyu/Kingnet/2026.04.08_上线_巨兽四个地区.md",
+    "mojunyu/Kingnet/2026.04.12_分析_SDK 有 AF 没有.md",
+    "mojunyu/Kingnet/attachments/2026.04.12_分析_SDK 有 AF 没有.xlsx",
+    "mojunyu/Obsidian/插件/清理无用图片.md",
+    "mojunyu/Kingnet/2026.03.17_上线_天使俄罗斯.md",
+    "mojunyu/Kingnet/2026.03.11_通知_Adjust更新.md",
+    "mojunyu/Kingnet/2026.03.01_需求_微信小游戏 SDK.md",
+    "mojunyu/Kingnet/2025.12.08_重构_Redis 迁移.md",
+    "mojunyu/Kingnet/2025.11.25_需求_IOS 删除账号.md",
+    "mojunyu/Kingnet/attachments/2025.11.25_需求_IOS 删除账号.mp4",
+    "SDK 文档/市场文档/应用-功能相关",
+    "创建应用.canvas",
+    "SDK 文档/运营文档/应用管理相关/attachments/创建应用.png",
+    "SDK 文档/运营文档/项目-功能相关/attachments/退款弹窗.png",
+    "SDK 文档/运营文档/项目-功能相关/attachments/防沉迷.png",
+    "SDK 文档/运营文档/项目-功能相关/attachments/防沉迷.png",
+    "SDK 文档/运营文档/项目-功能相关/attachments/工单提醒.png",
+    "SDK 文档/运营文档/项目-功能相关/attachments/防沉迷.jpg",
+    "SDK 文档/运营文档/项目-功能相关/attachments/创建项目.png",
+    "SDK 文档/运营文档/项目-功能相关/attachments/会员弹窗.png",
+    "SDK 文档/运营文档/项目-功能相关/attachments/会员弹窗-1.jpg",
+    "SDK 文档/运营文档/项目-功能相关/attachments/会员弹窗.jpg",
+    "未命名/未命名.canvas"
+  ]
+}
