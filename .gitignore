@@ -1,0 +1,30 @@
+# ========================
+# Obsidian 专用 .gitignore
+# ========================
+
+# [核心] 软件缓存与临时文件（必须忽略）
+.obsidian/workspace
+.obsidian/backups/
+.obsidian/trash/
+.obsidian/icon-
+.obsidian/core-plugins-migrations/
+
+# [核心] 同步冲突备份文件（必须忽略）
+.sync-conflict-*.md
+
+# [系统] 操作系统生成的垃圾文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+*.tmp
+*.log
+
+# [应用] 常见附件目录（按需启用）
+# assets/
+# attachments/
+# images/
