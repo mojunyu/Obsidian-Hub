@@ -1,10 +1,11 @@
 [
   "oz-clear-unused-images",
-  "obsidian-paste-image-rename",
   "consistent-attachments-and-links",
   "table-editor-obsidian",
   "obsidian-image-toolkit",
   "obsidian42-brat",
   "claudian",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-paste-image-rename",
+  "settings-search"
 ]
