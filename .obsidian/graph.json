@@ -1,16 +1,31 @@
 {
   "collapse-filter": false,
-  "search": "path:Kingnet  ",
+  "search": "path:\"Kingnet/SDK 文档\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"Kingnet/SDK 文档/市场文档\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"Kingnet/SDK 文档/运营文档\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.99853732638889,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
@@ -18,5 +33,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1.455071768737908,
-  "close": true
+  "close": false
 }
