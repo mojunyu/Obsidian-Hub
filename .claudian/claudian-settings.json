@@ -14,18 +14,20 @@
   "sharedEnvironmentVariables": "",
   "envSnippets": [],
   "customContextLimits": {},
+  "customModelAliases": {},
   "keyboardNavigation": {
     "scrollUpKey": "w",
     "scrollDownKey": "s",
     "focusInputKey": "i"
   },
+  "requireCommandOrControlEnterToSend": false,
   "locale": "zh-CN",
   "providerConfigs": {
     "claude": {
       "safeMode": "acceptEdits",
       "cliPath": "",
       "cliPathsByHost": {
-        "mojunyudeMac-mini.local": "/Users/mojunyu/.local/bin/claude"
+        "device:400b5104-f31d-4d9c-903d-16f2b7127b60": "/Users/mojunyu/.local/bin/claude"
       },
       "loadUserSettings": true,
       "enableChrome": false,
@@ -42,13 +44,39 @@
       "safeMode": "workspace-write",
       "cliPath": "",
       "cliPathsByHost": {},
+      "customModels": "",
       "reasoningSummary": "detailed",
       "environmentVariables": "",
       "environmentHash": "",
       "installationMethodsByHost": {
-        "mojunyudeMac-mini.local": "native-windows"
+        "device:400b5104-f31d-4d9c-903d-16f2b7127b60": "native-windows",
+        "device:b769949b-3e97-41b2-ac95-c8d39f2bc4cf": "native-windows"
       },
       "wslDistroOverridesByHost": {}
+    },
+    "opencode": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "preferredThinkingByModel": {},
+      "selectedMode": "",
+      "thinkingOptionsByModel": {},
+      "visibleModels": []
+    },
+    "pi": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "discoveredModels": [],
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "preferredThinkingByModel": {},
+      "toolMode": "all",
+      "visibleModels": []
     }
   },
   "settingsProvider": "claude",
@@ -67,10 +95,12 @@
     "claude": "medium",
     "codex": "off"
   },
+  "savedProviderPermissionMode": {},
   "lastCustomModel": "",
   "maxTabs": 3,
   "tabBarPosition": "input",
   "enableAutoScroll": true,
-  "openInMainTab": false,
+  "deferMathRenderingDuringStreaming": true,
+  "chatViewPlacement": "right-sidebar",
   "hiddenProviderCommands": {}
 }
